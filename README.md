@@ -1,5 +1,5 @@
 # MonsterSlayer
----
+
 This is the first example from Maximilian Schwarzmüller's Udemy course:
 
 **Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)**
